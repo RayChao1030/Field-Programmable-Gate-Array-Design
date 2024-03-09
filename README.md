@@ -1,5 +1,5 @@
 "# Field-Programmable-Gate-Array-Design"  
-**Hardware Architecture**  
+**Hardware Architecture** about **Elliptic Curve Cryptography**  
 **◼ Submodule**  
 **◆ Controller**  
 ![image](https://github.com/RayChao1030/Field-Programmable-Gate-Array-Design/assets/76627328/08bfca5e-9415-4309-80c4-93123126b23e)  
