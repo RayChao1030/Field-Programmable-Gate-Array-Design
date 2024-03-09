@@ -17,5 +17,5 @@ Utilized long division, starting from the MSB and comparing it with a value P ov
 Involved multiplying two 64-bit inputs by breaking them down into 16-bit by 16-bit multiplications. Each cycle multiplies a 16-bit multiplicand with the 64-bit multiplier to accumulate partial products. Within 4 cycles, the multiplication of two 64-bit numbers can be completed.
 ![image](https://github.com/RayChao1030/Field-Programmable-Gate-Array-Design/assets/76627328/d83e9fcc-e94e-47de-8ba7-b8fd51b25593)  
 **The Inv_mod operation**  
-Utilized Fermat's Little Theorem to find the inverse modulo p, By exploiting the properties of modular exponentiation, iterated through the exponent bits of a, raising a to powers of two and accumulating the product, thus completing the calculation.
+Utilized Fermat's Little Theorem to find the inverse modulo p, By exploiting the properties of modular exponentiation, iterated through the exponent bits of a, raising a to powers of two and accumulating the product, thus completing the calculation.MORE UPDATED SOON
 
